@@ -1,0 +1,25 @@
+/* Basic CSS Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  html,
+  body {
+    height: 100%;
+    width: 100%;
+    background-color: #748ad1;
+  }
+  #map {
+    height: 70%;
+    width: 80%;
+    margin: 0 auto;
+  }
+  h1 {
+    text-align: center;
+    /* margin-top: 20px; */
+    color: rgb(0, 0, 0);
+    /* background-color: #ffd1d1; */
+    margin-bottom: 20px;
+  }
+  
